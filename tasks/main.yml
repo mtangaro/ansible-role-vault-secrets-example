@@ -1,0 +1,8 @@
+---
+# tasks file for ansible-role-vault-secrets-example
+
+- debug:
+    msg: '{{ vault_token }}'
+
+- debug:
+    msg: '{{ vault_secrets }}'

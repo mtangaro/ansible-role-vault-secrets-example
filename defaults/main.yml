@@ -1,0 +1,6 @@
+---
+# defaults file for ansible-role-vault-secrets-example
+#
+vault_token: {}
+
+vault_secrets: {}

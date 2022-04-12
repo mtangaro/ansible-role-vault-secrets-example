@@ -6,3 +6,6 @@
 
 - debug:
     msg: '{{ vault_secrets }}'
+
+- debug:
+    msg: ' vault_secrets.data.secret1 }}'
